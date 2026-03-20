@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KirtiMorya
-- 🌱 I’m currently learning data structures and algorithms.
+- 🌱 I’m currently working as a developer at Deloitte.
 - 📫 How to reach me via LinkedIn-https://www.linkedin.com/in/kirti-morya-05b949214/
 
 <!---
